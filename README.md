@@ -1,5 +1,5 @@
 # willberries -- Учебный проект Glo Academy
-# Выполнил проект - Nikitkin Alexey
+Выполнил проект - Nikitkin Alexey
 # В проекте использовались языки программирования:
 - HTML
 - CSS
